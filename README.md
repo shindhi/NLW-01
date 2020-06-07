@@ -49,7 +49,7 @@ O **Ecoleta** é um projeto marketplace desenvolvido durante a primeira **Next L
 ```
 
 ## 🔧 Como rodar
-###  Serv er
+###  Server
 ```bash
   # Acessar a pasta
   $ cd server
